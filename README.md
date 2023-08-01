@@ -1,2 +1,2 @@
 # PDF-Chat-Bot
-Chat with your PDFs
+Utilize Langchain and Streamlit to build a chat bot to chat with your personal PDFs.
