@@ -1,2 +1,2 @@
 # PDF-Chat-Bot
-Utilize Langchain and Streamlit to build a chat bot to chat with your personal PDFs.
+Develop a conversational chatbot by harnessing the capabilities of Langchain, a Python library designed for building Large Language Models (LLMs), and Streamlit, another Python library for creating web applications. This chatbot will be specifically designed to interact with and provide information from your own collection of PDF documents. Users can engage in natural language conversations with the chatbot, which will retrieve and present relevant content, answers, or insights from the PDFs in response to their queries or requests. Note: you must provide your own api keys in the attached .env file. 
