@@ -1,8 +1,8 @@
 
 
-# PDF QueryBot
+# PDF ChatBot
 
-PDF QueryBot is a conversational chatbot that harnesses the capabilities of Langchain, a Python library designed for building Large Language Models (LLMs), and Streamlit, another Python library for creating web applications. This chatbot is specifically designed to interact with and provide information from your own collection of PDF documents. Users can engage in natural language conversations with the chatbot, which will retrieve and present relevant content, answers, or insights from the PDFs in response to their queries or requests.
+Create a conversational chatbot that harnesses the capabilities of Langchain, a Python library designed for building Large Language Models (LLMs), and Streamlit, another Python library for creating web applications. This chatbot is specifically designed to interact with and provide information from your own collection of PDF documents. Users can engage in natural language conversations with the chatbot, which will retrieve and present relevant content, answers, or insights from the PDFs in response to their queries or requests.
 
 **Note:** You must provide your own API key in the attached `.env` file.
 
