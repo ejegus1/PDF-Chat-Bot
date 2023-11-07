@@ -1,4 +1,4 @@
-Certainly, I can help you make your README file more organized and visually pleasing. Here's an improved version:
+
 
 # PDF QueryBot
 
@@ -40,4 +40,3 @@ To start the chatbot application, run the following command in your VS Code term
 streamlit run app.py
 ```
 
-Now your README is more organized and structured. It provides clear sections for the introduction, prerequisites, installation steps, and running the application. Additionally, it includes direct links to download Python and VS Code, making it easier for users to get started with your project.
